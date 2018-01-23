@@ -1,0 +1,9 @@
+E:\program\calcu\calcu\bin\Debug\calcu.exe
+E:\program\calcu\calcu\bin\Debug\calcu.pdb
+E:\program\calcu\calcu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\program\calcu\calcu\obj\x86\Debug\calcu.Form1.resources
+E:\program\calcu\calcu\obj\x86\Debug\calcu.Properties.Resources.resources
+E:\program\calcu\calcu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\program\calcu\calcu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\program\calcu\calcu\obj\x86\Debug\calcu.exe
+E:\program\calcu\calcu\obj\x86\Debug\calcu.pdb
